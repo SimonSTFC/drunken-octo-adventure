@@ -1,0 +1,18 @@
+#requestUsername {
+	padding-top: 100px;
+}
+
+.fa-comment {
+	color: #12B200;
+}
+
+.timestamp {
+	float: right;
+}
+
+#whose-online {
+	height: 100vh;
+	position: fixed;
+	top: 0px;
+	box-shadow: 5px 5px 5px #888888;
+}
